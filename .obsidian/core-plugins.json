@@ -7,9 +7,13 @@
   "page-preview",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
+  "starred",
   "markdown-importer",
+  "outline",
   "word-count",
   "open-with-default-app",
+  "workspaces",
   "file-recovery"
 ]

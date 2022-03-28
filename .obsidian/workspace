@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c11247d12154d455",
+        "id": "d9502cab0a6b0637",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "工作/Git/git 提交规范.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#用于说明git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -44,12 +48,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "6e1618e0548fbcbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232
   },
   "right": {
     "id": "966e4d971983b880",
@@ -65,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工作/Git/git 提交规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +88,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "05ce32408e46e1a5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7c48948738848af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c11247d12154d455",
-  "lastOpenFiles": []
+  "active": "d9502cab0a6b0637",
+  "lastOpenFiles": [
+    "工作/Git/git 提交规范.md",
+    "计划/工作.md"
+  ]
 }
