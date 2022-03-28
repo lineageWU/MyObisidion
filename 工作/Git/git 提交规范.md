@@ -1,4 +1,4 @@
-用于说明git commit的类别，允许使用下面的标识。
+# 用于说明git commit的类别，允许使用下面的标识。
 
 * feat：新功能（feature）.
 * fix：修复bug，可以是QA发现的BUG，也可以是研发自己发现的BUG。
@@ -11,3 +11,4 @@
 * revert：回滚到上一个版本。
 * perf: 优化相关，比如提升性能、体验。
 * merge：代码合并。
+
