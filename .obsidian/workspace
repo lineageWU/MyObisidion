@@ -7,12 +7,8 @@
         "id": "cf62d32703836c29",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Android/Activity/Activity.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,14 +73,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Activity/Activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -101,13 +96,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Android/Activity/Activity.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,9 +110,13 @@
   "lastOpenFiles": [
     "Android/Activity/Activity.md",
     "Android/Android 大纲.md",
-    "计划/工作.md",
-    "JAVA/小知识/字符串截取.md",
-    "工作/Git/git 提交规范.md",
-    "Android/jetpack/ViewModel.md"
+    "Android/View/View目录.md",
+    "JAVA/实体类/实体类目录.md",
+    "JAVA/实体类/String.md",
+    "Android/View/ViewPager2.md",
+    "Android/View/TabLayout.md",
+    "工作/git 提交规范.md",
+    "工作/ADB.md",
+    "工作/Git/git命令.md"
   ]
 }
