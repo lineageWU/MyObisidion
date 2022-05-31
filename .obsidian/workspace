@@ -7,8 +7,12 @@
         "id": "cf62d32703836c29",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Android/View/格式.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android/View/格式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android/View/格式.md"
+              }
             }
           }
         ],
@@ -108,15 +115,15 @@
   },
   "active": "cf62d32703836c29",
   "lastOpenFiles": [
-    "Android/Activity/Activity.md",
-    "Android/Android 大纲.md",
+    "Android/View/格式.md",
+    "Android/View/透明度表.md",
+    "Android/View/recycleview.md",
     "Android/View/View目录.md",
-    "JAVA/实体类/实体类目录.md",
-    "JAVA/实体类/String.md",
-    "Android/View/ViewPager2.md",
-    "Android/View/TabLayout.md",
-    "工作/git 提交规范.md",
     "工作/ADB.md",
-    "工作/Git/git命令.md"
+    "工作/奥比样机.md",
+    "工作/git 提交规范.md",
+    "工作/git 提交顺序.md",
+    "计划/工作.md",
+    "Android/View/TabLayout.md"
   ]
 }

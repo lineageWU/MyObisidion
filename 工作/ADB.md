@@ -15,3 +15,6 @@
 7、adb connect：连接
 
 8、adb diaconnect：断开连接
+
+9、adb logcat -v time > 1.log：打印日志
+

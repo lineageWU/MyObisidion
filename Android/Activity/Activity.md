@@ -5,3 +5,10 @@
  <action android:name="android.intent.action.MAIN" />  
  <category android:name="android.intent.category.LAUNCHER" />  
 </intent-filter>
+
+# Fragment
+## 动态添加
+FragmentManager fragmentManager = getSupportFragmentManager();
+        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+        fragmentTransaction.replace(R.id.fl,fragment);
+        fragmentTransaction.commit();
