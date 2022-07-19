@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Android/View/格式.md",
+            "file": "工作/7.9下午.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#用于说明git",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/View/格式.md",
+                "file": "工作/7.9下午.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/View/格式.md"
+                "file": "工作/7.9下午.md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "cf62d32703836c29",
   "lastOpenFiles": [
-    "Android/View/格式.md",
+    "工作/7.9.md",
+    "Flutter/组件.md",
+    "Flutter/组件2.md",
+    "工作/7.9下午.md",
     "Android/View/透明度表.md",
-    "Android/View/recycleview.md",
-    "Android/View/View目录.md",
-    "工作/ADB.md",
-    "工作/奥比样机.md",
     "工作/git 提交规范.md",
     "工作/git 提交顺序.md",
-    "计划/工作.md",
-    "Android/View/TabLayout.md"
+    "工作/ADB.md",
+    "Android/View/格式.md",
+    "计划/工作.md"
   ]
 }
