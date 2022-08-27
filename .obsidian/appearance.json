@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "translucency": true,
-  "cssTheme": "Yin and Yang"
+  "cssTheme": "Yin and Yang",
+  "baseFontSizeAction": true
 }
