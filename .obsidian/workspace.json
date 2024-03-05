@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "02dbdac1c3522ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b588e0833091ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4daa3cb4e8b70bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android/View/透明度表.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "549acec39c1ebb65",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3f5b15e9a10fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddda610687225faf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcd8e61b44949e61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67c4408ba2e91c89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff4aa5d5bbf16fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c522640fca6acf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fec70112884da44c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/View/透明度表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e67928445226ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/View/透明度表.md"
+              }
+            }
+          },
+          {
+            "id": "a7891724ed2a99e8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "pkmer:Open Pkmer Market": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4daa3cb4e8b70bbd",
+  "lastOpenFiles": [
+    "Android/View/格式.md",
+    "Android/View/TabLayout.md",
+    "Android/Android 大纲.md",
+    "Android/设计模式/设计模式.md",
+    "Android/数据存储/数据存储.md",
+    "Flutter/组件.md",
+    "JAVA/实体类/实体类目录.md",
+    "JAVA/实体类/String.md",
+    "Android/View/View目录.md",
+    "Android/View/ViewPager2.md",
+    "Android/View/recycleview.md",
+    "Android/View/透明度表.md",
+    "工作/20180620113451746.png",
+    "工作/奥比样机.md",
+    "Flutter/组件2.md",
+    "2024-02-27.md",
+    "未命名.canvas",
+    "Android/Activity/Activity.md",
+    "工作/git 提交规范.md",
+    "工作/git 提交顺序.md",
+    "Android/jetpack/ViewModel.md",
+    "Android/View/字重.md",
+    "Pasted image 20220701175813.png",
+    "工作/7.9下午.md",
+    "工作/7.9.md"
+  ]
+}

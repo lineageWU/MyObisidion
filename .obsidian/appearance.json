@@ -1,6 +1,8 @@
 {
   "baseFontSize": 17,
   "translucency": true,
-  "cssTheme": "Yin and Yang",
-  "baseFontSizeAction": true
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "accentColor": "",
+  "theme": "obsidian"
 }
